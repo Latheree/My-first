@@ -1,3 +1,3 @@
 # My-first 
 
-html project i uploads
+html project i upload
